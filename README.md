@@ -12,4 +12,4 @@ Here, we also explore the TF-IDF (Term Frequency-Inverse Document Frequency) tec
 ## Word Embeddings
 This notebook introduces fastText, a library for word embeddings that captures semantic and syntactic relationships between words. It explores fastText's capabilities for generating word vector representations and demonstrates their application in NLP tasks.
 
-We also explored spaCy's word embeddings and Word2Vec from the gensim library. It provides an overview of how these pre-trained word embeddings can be used to obtain high-dimensional word vector representations and leverage their semantic meaning.
+We also explore spaCy's word embeddings and Word2Vec from the gensim library. It provides an overview of how these pre-trained word embeddings can be used to obtain high-dimensional word vector representations and leverage their semantic meaning.
